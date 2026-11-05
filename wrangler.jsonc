@@ -1,0 +1,10 @@
+{
+  // Deployed by Cloudflare Workers Builds with `npx wrangler deploy`.
+  "name": "coursematch",
+  "main": "worker.js",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
